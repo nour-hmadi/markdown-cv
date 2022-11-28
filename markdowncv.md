@@ -1,5 +1,5 @@
 # Nour Hmadi
-<!-- ![image.](/img.jpg) -->
+![image.](/nour.jpeg "my photo")
 
 **Location:** *Beirut, Lebanon*
 
@@ -23,7 +23,7 @@ BS in pure mathematics
 2022 
 MS in pure mathematics
 
-# ADDITIONAL SKILLS
+# ADDITIONAl SKILLS
 
 * Microsoft office
 * Latex
