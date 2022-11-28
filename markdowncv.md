@@ -20,6 +20,8 @@
 2018-2022
 BS in pure mathematics
 
+2022 
+MS in pure mathematics
 
 # ADDITIONAL SKILLS
 
